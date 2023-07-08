@@ -1,2 +1,3 @@
 # Own_RPI_Expansion_PCB
-Placeholder
+
+PCB files for RPI Expansion Board
