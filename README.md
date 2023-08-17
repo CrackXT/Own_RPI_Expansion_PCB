@@ -6,7 +6,7 @@ PCB files for RPI Expansion Board
 
 under construction
 
-- Part 2
+- Part 3
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
