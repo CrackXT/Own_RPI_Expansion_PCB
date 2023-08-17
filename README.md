@@ -6,9 +6,7 @@ PCB files for RPI Expansion Board
 
 under construction
 
-Part 2 of 3, part 1 is Own_RPI_Streamer_PCB and part 3 is Own_RPI_Bridge_PCB.<br>
-https://github.com/CrackXT/Own_RPI_Streamer_PCB<br>
-https://github.com/CrackXT/Own_RPI_Bridge_PCB<br>
+- Part 2
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
