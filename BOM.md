@@ -1,3 +1,4 @@
 # BOM - List
 
-part list for Use
+parts list for Use
+[BOM_Expansion_v1.0.pdf](https://github.com/CrackXT/Own_RPI_Expansion_PCB/files/13403856/BOM_Expansion_v1.0.pdf)
