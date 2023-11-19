@@ -18,8 +18,10 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 
 Top<br>
 <img src="https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/483dba3d-f88f-47d3-a31d-ce6ef643e9a8" width="15%" height="15%">
+
 Bottom<br>
 <img src="https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/6bf685d2-2fb5-4e37-b96d-406f2eaf742e" width="15%" height="15%">
+
 Routing/Dimensions(mm)<br>
 <img src="https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/2627ac30-9ae1-4e38-8524-e4ae592d520c" width="15%" height="15%">
 
