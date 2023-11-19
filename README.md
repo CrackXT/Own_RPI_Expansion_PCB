@@ -20,7 +20,7 @@ Top<br>
 <img src="https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/483dba3d-f88f-47d3-a31d-ce6ef643e9a8" width="50%" height="50%">
 
 Bottom<br>
-![Expansion_Bottom_v1 0](https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/6bf685d2-2fb5-4e37-b96d-406f2eaf742e)
+<img src="https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/6bf685d2-2fb5-4e37-b96d-406f2eaf742e" width="50%" height="50%">
 
 Routing/Dimensions(mm)<br>
 ![Expansion_v1 0](https://github.com/CrackXT/Own_RPI_Expansion_PCB/assets/88975406/2627ac30-9ae1-4e38-8524-e4ae592d520c)
