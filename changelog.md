@@ -1,3 +1,3 @@
 # Version - Build
-v1.0 - xx.08.2023
+v1.0 - 06.11.2023
 - First Release
